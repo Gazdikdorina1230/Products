@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "kagyló",
+      "description": "szép",
+      "price": 395,
+      "unit": 1
+    },
+    {
+      "id": 2,
+      "name": "hűtőmágnes",
+      "description": "szép",
+      "price": 1500,
+      "unit": 3
+    },
+    {
+      "id": 3,
+      "name": "törülköző",
+      "description": "rendben van",
+      "price": 3000,
+      "unit": 2
+    },
+    {
+      "id": 4,
+      "name": "napszemüveg",
+      "description": "rendben van",
+      "price": 2000,
+      "unit": 1
+    }
+  ]
+}
